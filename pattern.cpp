@@ -16,7 +16,7 @@ int main()
     {
         for(int j=i;j<=a;j++)
         {
-            cout<<"*";
+            cout<<"* ";
         }
         cout<<endl;
     }
